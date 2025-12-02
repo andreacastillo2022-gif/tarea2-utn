@@ -15,8 +15,8 @@ git clone https://github.com/andreacastillo2022-gif/tarea2-utn.git
 
 ## capturas de pantalla
 
-![Captura1](./Imagenes/Exito.png)
-![Captura2](./Imagenes/Negativo.png)
+![Captura1](./imagenes/Exito.png)
+![Captura2](./imagenes/Negativo.png)
 
 # Andrea Agustina Castillo
 # Curso: Curso de Desarrollo en React JS
@@ -29,6 +29,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
 https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault
 ChatGPT (para entender un poco mas diferencias entre let y const)
+
 
 
 
