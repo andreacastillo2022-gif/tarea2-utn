@@ -23,12 +23,13 @@ git clone https://github.com/andreacastillo2022-gif/tarea2-utn.git
 # Año: 2025
 
 ## Bibliografia  
-W3Schools
-Repositorio clases en vivo; https://github.com/GabrielAlberini/react-999201563/tree/master/clase-2
-1. https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
-2. https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
-3. https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault
-ChatGPT (para entender un poco mas diferencias entre let y const)
+1. W3Schools
+2. Repositorio clases en vivo; https://github.com/GabrielAlberini/react-999201563/tree/master/clase-2
+3. https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
+4. https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+5. https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault
+6. ChatGPT (para entender un poco mas diferencias entre let y const)
+
 
 
 
