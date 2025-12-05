@@ -28,7 +28,7 @@ git clone https://github.com/andreacastillo2022-gif/tarea2-utn.git
 3. https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
 4. https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 5. https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault
-6. ChatGPT (para entender un poco mas diferencias entre let y const)
+
 
 
 
